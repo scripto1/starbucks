@@ -66,4 +66,31 @@ _이탤릭_
 CSS에서 `background` 혹은 `background-image`
 
 ### 블록 코드 강조 
- <a href="https://google.com" title="구글로 이동" target="_blank">Google</a> 
+
+``` <a href="https://google.com" title="구글로 이동" target="_blank">Google</a> ```
+
+### 표
+
+position 속성
+
+값 | 의미 | 기본값
+:--:|:--:|:--:
+static | 기준 없음 | o
+relative | 요소 자신 | x
+
+---
+
+### 원시 HTML
+
+남의 말이나 글에서 직접 또는 간접으로 따온 문장.<br/>
+(네이버 국어 사전)
+
+---
+
+### 수평선
+
+---
+***
+___
+
+
