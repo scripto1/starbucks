@@ -1,5 +1,4 @@
 
-
 const badgeEl = document.querySelector('header .badges');
 
 window.addEventListener('scroll', _.throttle(function(){
